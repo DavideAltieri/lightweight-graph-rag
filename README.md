@@ -21,8 +21,6 @@ The retrieval pipeline works as follows:
 4. **Answer Generation**
    The top-ranked chunks are provided as context to the language model to generate the final answer.
 
-## Dataset
-
 The system is evaluated on a small benchmark built from the CIA World Factbook.
 
 * 10 country documents
