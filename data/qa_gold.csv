@@ -1,0 +1,36 @@
+question,answer_gold,chunks_gold,type
+What are the geographic coordinates of Italy?,"42 50 N, 12 50 E",Italy|GEOGRAPHIC COORDINATES,factoid
+What are the most common religions in Japan?,"Shintoism 48.6%, Buddhism 46.4%, Christianity 1.1%, other 4%",Japan|RELIGIONS,factoid
+What is the most spoken language in India between Bengali and Kannada?,Bengali,India|LANGUAGES,factoid
+Are there more male or female in Niger?,female,Niger|POPULATION,factoid
+What are Australia's natural resources?,"alumina, coal, iron ore, copper, lithium, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, opals, natural gas, petroleum",Australia|NATURAL RESOURCES,factoid
+What are the ethnic groups in Brazil?,"mixed 45.3%, White 43.5%, Black 10.2%, Indigenous 0.6%, Asian 0.4%",Brazil|ETHNIC GROUPS,factoid
+What are the geographic coordinates of Martinique?,"14 40 N, 61 00 W",France|GEOGRAPHIC COORDINATES,factoid
+What is the birth rate in Germany?,"8.9 births/1,000 population",Germany|BIRTH RATE,factoid
+What is the median age in the United Kingdom?,total: 40.8 years,United Kingdom|MEDIAN AGE,factoid
+How much is the population decreasing in Italy?,-0.08%,Italy|POPULATION GROWTH RATE,factoid
+Are there more chinese or koreans in Japan?,chinese,Japan|ETHNIC GROUPS,factoid
+How much forest is there in Niger?,0.8%,Niger|LAND USE,factoid
+Is english or german the official language in Germany?,German,Germany|LANGUAGES,factoid
+Does the United Kingdom have a total dependency equal to 56.4?,Yes,United Kingdom|DEPENDENCY RATIOS,factoid
+What are the top 3 languages by speakers in India?,"Hindi,Bengali,Marathi",India|LANGUAGES,factoid
+Which country among Brazil and France has the highest percentage of forest?,Brazil,France|LAND USE;Brazil|LAND USE,factoid
+Which country among Italy and Australia has the highest migration rate?,Australia,Italy|NET MIGRATION RATE;Australia|NET MIGRATION RATE,factoid
+What are the major watersheds of the two countries sharing Mont Blanc as highest points? ,"Italy: Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), (Black Sea) Danube (795,656 sq km), (Adriatic Sea) Po (76,997 sq km), (Mediterranean Sea) Rhone (100,543 sq km). France: Atlantic Ocean drainage: Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas (198,735 sq km), (Adriatic Sea) Po (76,997 sq km), (Mediterranean Sea) Rhone (100,543 sq km) ",Italy|MAJOR WATERSHEDS (AREA SQ KM);Italy|ELEVATION;France|MAJOR WATERSHEDS (AREA SQ KM);France|ELEVATION,factoid
+Which is the country with the most earthquakes in the world? What is its population distribution?,Japan. All primary and secondary regions of high population density lie on the coast; one third of the population resides in and around Tokyo on the central plain (Kanto Plain),Japan|GEOGRAPHY - NOTE;Japan|POPULATION DISTRIBUTION,factoid
+Which country has a lake of 580 sq km in common with Switzerland? How much is the water area of this country?,"France, 3,374 sq km",France|MAJOR LAKES (AREA SQ KM); France|AREA,factoid
+"What are Italy's border countries? For those border countries, provide their location ONLY if the information is provided.","Border countries are: Austria, France, Holy See (Vatican City), San Marino, Slovenia, Switzerland. Location is provided only for France",Italy|LAND BOUNDARIES;France|LOCATION,factoid
+"Which among France, Germany, and Italy has the largest population? ",Germany,Italy|POPULATION;France|POPULATION;Germany|POPULATION,factoid
+"Which country is one of the hottest in the world, and does its average elevation exceed 400 meters? ","Niger, it exceeds 400 meters",Niger|GEOGRAPHY - NOTE;Niger|ELEVATION,factoid
+Which country among the United States and Australia has higher percentage of English speaker?,United States,United States|LANGUAGES;Australia|LANGUAGES,factoid
+Which country among Niger and the United Kingdom has a more temperate climate?,United Kingdom,Niger|CLIMATE;United Kingdom|CLIMATE,factoid
+How many Catholics are there in the United States compared to Protestants?,"Protestant 46.5%, Roman Catholic 20.8%",United States|RELIGIONS,factoid
+Which country lacks permanent ice masses? ,Australia,Australia|GEOGRAPHY - NOTE,factoid
+Which two countries outside Europe faces natural risks similar to Italy due to both seismic activity and active volcanoes?,Japan and United States,Japan|NATURAL HAZARDS;United States|NATURAL HAZARDS,factoid
+Which country shares one of the highest mountains in the world with Nepal?,India,India|GEOGRAPHY - NOTE,factoid
+"Which country has a coastline of 7,491 km, and what is its exclusive economic zone? ",Brazil. Exclusive economic zone: 200 nm,Brazil|COASTLINE;Brazil|MARITIME CLAIMS,factoid
+Which country borders Germany and Switzerland and has a major river shared with both of them?,France,France|LAND BOUNDARIES; France|MAJOR RIVERS (BY LENGTH IN KM),factoid
+On which island is the population of the tropical US region primarily centered?,Hawaii,United States|CLIMATE; United States|POPULATION DISTRIBUTION,factoid
+How many Afrikan Americans are present in the United States?,12.4%,United States|ETHNIC GROUPS,factoid
+Is Brazil the largest country in South America?,Yes,Brazil|GEOGRAPHY - NOTE,factoid
+"Among the countries with Muslim as a major religion, what is the net migration rate?",Niger,Niger|NET MIGRATION RATE; Niger|RELIGIONS,factoid
