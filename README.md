@@ -1,7 +1,5 @@
 # Graph-Augmented Lightweight RAG with Relevance Grading for Low-Resource Environments
 
-# Lightweight Graph-Augmented RAG
-
 This project presents a lightweight graph-augmented Retrieval-Augmented Generation (RAG) approach designed for environments with limited computational resources.
 
 The goal is to improve document retrieval quality while maintaining a simple and efficient architecture, inspired by GraphRAG but significantly less computationally expensive.
