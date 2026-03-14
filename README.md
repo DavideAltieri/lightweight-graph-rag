@@ -12,11 +12,11 @@ The retrieval pipeline works as follows:
    The system first retrieves a set of *seed chunks* using dense embeddings.
 
 2. **Graph Expansion**
-   A **text/concept graph** connects document chunks through shared concepts.
+   A text/concept graph connects document chunks through shared concepts.
    Retrieved seed chunks are expanded by exploring connected chunks in the graph.
 
 3. **Relevance Grading**
-   A **MiniLM cross-encoder** evaluates the relevance between the query and candidate chunks.
+   A MiniLM cross-encoder evaluates the relevance between the query and candidate chunks.
 
 4. **Answer Generation**
    The top-ranked chunks are provided as context to the language model to generate the final answer.
