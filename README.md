@@ -38,5 +38,3 @@ The proposed approach is compared with two standard retrieval methods:
 * **Dense retrieval** using neural embeddings
 
 The lightweight graph-augmented approach  improves retrieval and answer accuracy compared to the baselines, demonstrating that graph-based expansion can enhance RAG systems even in low-resource settings.
-
-Davide Altieri
